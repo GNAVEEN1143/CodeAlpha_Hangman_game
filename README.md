@@ -71,3 +71,4 @@ if __name__ == "__main__":
 
 OUTPUT:
 
+![Screenshot 2025-01-10 173155](https://github.com/user-attachments/assets/a6f139b5-3dfd-49a9-877d-fe85a1d0031f)
